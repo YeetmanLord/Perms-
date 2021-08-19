@@ -1,0 +1,23 @@
+{
+  "values":[
+	"minecraft:black_stained_glass_pane",
+	"minecraft:red_stained_glass_pane",
+	"minecraft:enchanted_book",
+  "minecraft:name_tag",
+	"minecraft:potion",
+	"minecraft:command_block",
+	"minecraft:lime_dye",
+	"minecraft:blue_concrete",
+	"minecraft:barrier",
+  "minecraft:player_head",
+  "minecraft:glass_pane",
+  "minecraft:grass_block",
+  "minecraft:oak_sign",
+	"minecraft:water_bucket",
+  "minecraft:black_wool",
+  "minecraft:glass_bottle",
+  "minecraft:iron_sword",
+  "minecraft:map",
+  "minecraft:ender_eye"
+  ]
+}

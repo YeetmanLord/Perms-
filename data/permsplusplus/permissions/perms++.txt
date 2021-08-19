@@ -1,0 +1,26 @@
+permission.op
+All permissions and commands
+
+permission.broadcast
+/trigger broadcast
+
+permission.perms++.all
+All Perms++ permissions
+
+permission.perms++.promote
+/trigger promote.playerid
+/trigger Perms++.promote
+
+permission.perms++.demote
+/trigger demote.playerid
+/trigger Perms++.demote
+
+permission.perms++.vanish
+
+
+permission.superadmin
+Allows to set order (group order) more for this specific tag coming soon!
+/trigger addSuperAdmin
+/trigger removeSuperAdmin
+/trigger forceBan
+/trigger order

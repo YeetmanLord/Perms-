@@ -1,0 +1,49 @@
+permission.minecraft.all
+All Minecraft Commands
+
+permission.minecraft.deop
+/trigger deop
+
+permission.minecraft.op
+/trigger op
+
+permission.minecraft.reload
+/trigger reload
+
+permission.minecraft.ban
+/trigger silentban
+/trigger ban
+
+permission.minecraft.kick
+/trigger kick
+/trigger crash
+
+permission.minecraft.kill
+/trigger kill
+
+permission.minecraft.effect
+/trigger effect
+/trigger effect.clear
+
+
+permission.minecraft.tp
+/trigger tp
+
+permission.minecraft.gamemode
+/trigger gamemode
+/trigger gmc
+/trigger gms
+/trigger gma
+/trigger gmsp
+
+permission.minecraft.gms
+/trigger gms
+
+permission.minecraft.gmc
+/trigger gmc
+
+permission.minecraft.gmsp
+/trigger gmsp
+
+permission.minecraft.gma
+/trigger gma
