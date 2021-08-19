@@ -1,4 +1,5 @@
 tag @a[tag=banning] remove banning
+tag @a[tag=banning] remove forceBanning
 
 tag @a[tag=broadcast] remove broadcast
 
